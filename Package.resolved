@@ -3,11 +3,11 @@
     "pins": [
       {
         "package": "swift-case-paths",
-        "repositoryURL": "https://github.com/pointfreeco/swift-case-paths",
+        "repositoryURL": "https://github.com/ContentsToolDev/swift-case-paths",
         "state": {
-          "branch": null,
-          "revision": "bba1111185863c9288c5f047770f421c3b7793a4",
-          "version": "1.1.3"
+          "branch": "main",
+          "revision": "0bf20c27f9621d3c5881a54ebb3bdc54ab6fd8dd",
+          "version": null
         }
       },
       {
@@ -38,12 +38,12 @@
         }
       },
       {
-        "package": "swift-syntax",
-        "repositoryURL": "https://github.com/apple/swift-syntax.git",
+        "package": "SwiftSyntaxWrapper",
+        "repositoryURL": "https://github.com/ContentsToolDev/swift-syntax-xcframeworks",
         "state": {
-          "branch": null,
-          "revision": "6ad4ea24b01559dde0773e3d091f1b9e36175036",
-          "version": "509.0.2"
+          "branch": "main",
+          "revision": "fb8e587d8a85e4fdfed67949d22ddedfc16748d5",
+          "version": null
         }
       },
       {
